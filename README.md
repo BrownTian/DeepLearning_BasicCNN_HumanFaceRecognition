@@ -17,11 +17,11 @@ One layer CNN(kernels:8,3,3), linear combination in my case.
 ### Third Step : Chose Cost function
 softmax, this is a two-classification problem.
 
-### Four Step: Training Algorithm
+### Fourth Step: Training Algorithm
 #### standrad gradient descent vs mini batch gradient descent
 I used two version of gradient descent and make a comparison for training processing.
 
-### Five Step: Training on train dataset and cross-validation on test dataset
+### Fifth Step: Training on train dataset and cross-validation on test dataset
 #### The training result and cross-validation accuracy is shown below
 <img width="1526" alt="simple_cnn_cost" src="https://user-images.githubusercontent.com/36088488/39958176-0e2dd1fc-55c5-11e8-98d9-79f7c4e6bd9b.png">
 

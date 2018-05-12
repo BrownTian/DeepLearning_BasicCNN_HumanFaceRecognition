@@ -32,3 +32,6 @@ The training result is very good and the accuracy is pretty high!
 
 ### Final Step: Example predictions on Test set
 <img width="1156" alt="simple_cnn" src="https://user-images.githubusercontent.com/36088488/39958177-0e3c4c8c-55c5-11e8-80e3-4e6576a4a5fc.png">
+
+If you have any question or comments, please feel free to contact me: bowentian2017@u.northwestern.edu 
+The material in this repository is not to be distributed, copied, or reused without written permission from the author.

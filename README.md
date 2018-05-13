@@ -28,7 +28,7 @@ I used two version of gradient descent and make a comparison for training proces
 
 <img width="1384" alt="simple_cnn_accuracy" src="https://user-images.githubusercontent.com/36088488/39958174-0e1fdcfa-55c5-11e8-9e52-b6bd005e9c54.png">
 
-The training result is very good and the accuracy is pretty high!
+The training result is very good and the 97% accuracy is pretty high!
 
 ### Final Step: Example predictions on Test set
 <img width="1156" alt="simple_cnn" src="https://user-images.githubusercontent.com/36088488/39958177-0e3c4c8c-55c5-11e8-80e3-4e6576a4a5fc.png">
